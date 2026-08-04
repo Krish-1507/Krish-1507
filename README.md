@@ -1,5 +1,7 @@
 <div align="center">
 
+# ⚡ KRISH ⚡
+
 ```
  _  __      _     _     
 | |/ /     (_)   | |    
@@ -55,17 +57,15 @@ I don't just write code that runs. I design **systems that think, decide, and ac
 
 <br>
 
-## 🧩 Deployed Modules — Things I've Actually Built
+## 🧩 Deployed Modules
 
-| Module | Function | Core Stack | Deploy |
-|:--|:--|:--|:--|
-| 🤖 **JAMES Agent** | A fully autonomous agentic assistant — plans, reasons across multi-step tasks, and executes without hand-holding. | `LangChain` `Python` `LLMs` | [`→ repo`](https://github.com/Krish-1507/JAMES-Agent) |
-| 🛡️ **guardian-cli** | A CLI-first guardian that monitors, automates, and protects — because clicking around GUIs is for amateurs. | `Python` `CLI` `Automation` | [`→ repo`](https://github.com/Krish-1507/guardian-cli) |
-| 🎥 **VIMO** | An AI-driven multimodal system for intelligent vision/voice interaction. | `Python` `AI/ML` | [`→ repo`](https://github.com/Krish-1507/VIMO) |
-| 📖 **RepoReader** | Points an LLM at any GitHub repo and gets it to actually explain the codebase back in plain English. | `Python` `LLMs` `GitHub API` | [`→ repo`](https://github.com/Krish-1507/RepoReader) |
-| 🌌 **Aether** | A framework for orchestrating multi-agent LLM pipelines — the connective tissue behind my agent projects. | `Python` `LangChain` | [`→ repo`](https://github.com/Krish-1507/Aether) |
+- 🤖 **JAMES Agent**
+- 🛡️ **guardian-cli**
+- 🎥 **VIMO**
+- 📖 **RepoReader**
+- 🌌 **Aether**
 
-> 🔍 Full module registry → [github.com/Krish-1507?tab=repositories](https://github.com/Krish-1507?tab=repositories)
+🔍 **[→ View all modules on github.com/Krish-1507?tab=repositories](https://github.com/Krish-1507?tab=repositories)**
 
 <br>
 
@@ -163,13 +163,15 @@ commit root (20XX)
 ## 📡 API — Reach The Agent
 
 ```http
-GET   /social/linkedin     →  200 OK   →  linkedin.com/in/krishj1507
+GET   /social/linkedin     →  200 OK   →  linkedin.com/in/krish-j-2433672a5
+GET   /social/x            →  200 OK   →  x.com/fromkrish
 POST  /contact/email       →  200 OK   →  krishjeet15@gmail.com
 ```
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishj1507)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-j-2433672a5/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/fromkrish)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishjeet15@gmail.com)
 
 <br>
