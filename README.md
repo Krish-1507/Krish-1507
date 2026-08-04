@@ -1,7 +1,5 @@
 <div align="center">
-
-# ⚡ KRISH ⚡
-
+ 
 ```
  _  __      _     _     
 | |/ /     (_)   | |    
