@@ -1,162 +1,179 @@
 <div align="center">
 
-# Krish J
+```
+ _  __      _     _     
+| |/ /     (_)   | |    
+| ' / _ __  _ ___| |__  
+|  < | '__|| / __| '_ \ 
+| . \| |   | \__ \ | | |
+|_|\_\_|   |_|___/_| |_|
 
-### Building AI agents that don't just answer questions — they ship software.
+>> autonomous_agent.exe  |  v3.0  |  region: Chennai, IN
+```
 
-Agentic AI • LLM Systems • Full Stack • Open Source
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1200&color=00F5D4&center=true&vCenter=true&width=750&lines=Gen+AI+Engineer+%7C+Agentic+AI+Builder+%7C+Full-Stack+Dev;I+don't+just+prompt+LLMs.+I+make+them+WORK.;LangChain+%2B+Python+%2B+Controlled+Chaos;%F0%9F%8F%86+Best+Paper+Award+%40+Int'l+Conf.+on+Autonomous+Intelligence)](https://git.io/typing-svg)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=4F8EF7&center=true&vCenter=true&width=700&lines=Building+production+AI+Agents;Designing+LLM+Systems;Creating+Developer+Tools;Turning+Ideas+into+Products"/>
+<img src="https://komarev.com/ghpvc/?username=Krish-1507&style=flat-square&color=00F5D4&label=AGENT+VIEWED" alt="views"/>
 
 </div>
 
----
+<br>
 
-# // whoami
+## `$ ./boot_sequence.sh`
 
 ```bash
-$ whoami
+> initializing krish.exe ...
 
-Name        : Krish J
-Location    : Chennai, India
+[OK]    location ................. Chennai, India 🇮🇳
+[OK]    core_modules .............. Gen AI · Agentic AI · Full-Stack Dev
+[OK]    research_unit ............. ACTIVE — 🏆 Best Paper Award, Int'l Conf. on Autonomous Intelligence
+[OK]    primary_directive ......... turn AI concepts into software that ships
+[WARN]  caffeine_reserve .......... CRITICAL
+[OK]    system_status ............. READY_TO_BUILD 🚀
 
-Role        : AI Engineer
-Focus       : Agentic AI
-Languages   : Python • TypeScript • Dart • C++
-
-Research    : Best Paper Award
-Mission     : Build software people actually use.
+> krish.exe is now running.
 ```
 
----
+<br>
 
-# Current Mission
+## 🧠 How I Operate — The Agent Loop
 
-Instead of making another chatbot...
+```mermaid
+flowchart LR
+    A["👀 PERCEIVE\nUnderstand the real problem"] --> B["🧩 REASON\nBreak it into systems & agents"]
+    B --> C["⚙️ ACT\nBuild it — code, pipelines, models"]
+    C --> D["🔁 REFLECT\nShip → Test → Iterate"]
+    D --> A
 
-I'm building autonomous AI systems that can:
-
-• reason
-
-• use tools
-
-• write code
-
-• automate workflows
-
-• solve real engineering problems
-
-Current obsession:
-
-```
-AI Agents > AI Chatbots
+    style A fill:#0D1117,stroke:#00F5D4,color:#fff
+    style B fill:#0D1117,stroke:#7C3AED,color:#fff
+    style C fill:#0D1117,stroke:#00F5D4,color:#fff
+    style D fill:#0D1117,stroke:#7C3AED,color:#fff
 ```
 
----
+I don't just write code that runs. I design **systems that think, decide, and act** — that's the difference between a script and an agent.
 
-# Building
+<br>
 
-| Project | Description |
-|----------|-------------|
-| 🚀 JAMES | Open-source AI engineering agent |
-| 🧠 VIMO | AI Marketing Intelligence Platform |
-| 🌊 Neptune | Private Local AI Assistant |
-| 🔬 AI Research | Published research in Autonomous Intelligence |
+## 🧩 Deployed Modules — Things I've Actually Built
 
----
+| Module | Function | Core Stack | Deploy |
+|:--|:--|:--|:--|
+| 🤖 **JAMES Agent** | A fully autonomous agentic assistant — plans, reasons across multi-step tasks, and executes without hand-holding. | `LangChain` `Python` `LLMs` | [`→ repo`](https://github.com/Krish-1507/JAMES-Agent) |
+| 🛡️ **guardian-cli** | A CLI-first guardian that monitors, automates, and protects — because clicking around GUIs is for amateurs. | `Python` `CLI` `Automation` | [`→ repo`](https://github.com/Krish-1507/guardian-cli) |
+| 🎥 **VIMO** | An AI-driven multimodal system for intelligent vision/voice interaction. | `Python` `AI/ML` | [`→ repo`](https://github.com/Krish-1507/VIMO) |
+| 📖 **RepoReader** | Points an LLM at any GitHub repo and gets it to actually explain the codebase back in plain English. | `Python` `LLMs` `GitHub API` | [`→ repo`](https://github.com/Krish-1507/RepoReader) |
+| 🌌 **Aether** | A framework for orchestrating multi-agent LLM pipelines — the connective tissue behind my agent projects. | `Python` `LangChain` | [`→ repo`](https://github.com/Krish-1507/Aether) |
 
-# Tech Stack
+> 🔍 Full module registry → [github.com/Krish-1507?tab=repositories](https://github.com/Krish-1507?tab=repositories)
 
-### AI
+<br>
 
-Python
+## ⚙️ Installed Capabilities
 
-LangChain
+```json
+{
+  "developer": "Krish",
+  "role": ["Gen AI Engineer", "Agentic AI Builder", "Full-Stack Developer"],
+  "dependencies": {
+    "languages":     ["Python", "TypeScript", "JavaScript", "Java", "C++", "Dart", "PHP"],
+    "ai_ml":         ["LangChain", "PyTorch", "TensorFlow", "Keras", "scikit-learn", "OpenCV", "MLflow"],
+    "frontend":      ["React", "Next.js", "Vue.js", "Angular", "Flutter", "TailwindCSS", "Three.js"],
+    "backend":       ["FastAPI", "Django", "Flask", "Node.js", "Express.js"],
+    "databases":     ["MongoDB", "PostgreSQL", "MySQL", "Redis", "Firebase", "Supabase"],
+    "cloud_devops":  ["Google Cloud", "Vercel", "Netlify", "Render", "Docker", "GitHub Actions"]
+  },
+  "status": "actively_shipping",
+  "uptime": "always"
+}
+```
 
-LangGraph
+<details>
+<summary>💊 <b>Expand full tech badge stack</b></summary>
+<br>
 
-OpenAI
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-Gemini
+</details>
 
-Ollama
+<br>
 
-Transformers
-
-PyTorch
-
-TensorFlow
-
----
-
-### Backend
-
-FastAPI
-
-Node.js
-
-Express
-
-Firebase
-
-Supabase
-
-Redis
-
-Postgres
-
-MongoDB
-
----
-
-### Frontend
-
-Next.js
-
-React
-
-Flutter
-
-Tailwind
-
-Three.js
-
-TypeScript
-
----
-
-### DevOps
-
-Docker
-
-GitHub Actions
-
-Vercel
-
-Render
-
-Google Cloud
-
----
-
-# GitHub
+## 📡 Live Telemetry
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Krish-1507&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.shion.dev/api?username=Krish-1507&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=7C3AED&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Krish-1507&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=c9d1d9&langs_count=10"/>
 
-<img src="https://streak-stats.demolab.com?user=Krish-1507&theme=tokyonight&hide_border=true"/>
+![Streak](https://streak-stats.demolab.com/?user=Krish-1507&theme=dark&hide_border=true&background=0D1117&ring=00F5D4&fire=7C3AED&currStreakLabel=00F5D4)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-1507&layout=compact&theme=tokyonight&hide_border=true"/>
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Krish-1507&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5D4&line=7C3AED&point=ffffff)
 
 </div>
 
----
+<br>
 
-# Let's Build Something Cool
+## 🏆 Achievement Unlocked
 
-LinkedIn
+```
+┌──────────────────────────────────────────────────────┐
+│  🏆  BEST PAPER AWARD                                 │
+│  International Conference on Autonomous Intelligence │
+│  Category: Research · Track: Autonomous Systems      │
+│  Status: ██████████████████████████████ 100%         │
+└──────────────────────────────────────────────────────┘
+```
 
-Email
+<br>
 
-Portfolio
+## 📜 `git log --life --oneline`
+
+```text
+commit HEAD -> main (2025)
+    Building autonomous multi-agent systems, full-time
+
+commit 2024
+    🏆 Won Best Paper Award — Int'l Conf. on Autonomous Intelligence
+
+commit 2023
+    Went all-in on LangChain, LLMs & Agentic AI
+
+commit 2022
+    Started shipping full-stack products end to end
+
+commit root (20XX)
+    print("Hello, World")
+```
+
+<br>
+
+## 📡 API — Reach The Agent
+
+```http
+GET   /social/linkedin     →  200 OK   →  linkedin.com/in/krishj1507
+POST  /contact/email       →  200 OK   →  krishjeet15@gmail.com
+```
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishj1507)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishjeet15@gmail.com)
+
+<br>
+
+**`"I don't just build with AI — I build AI that builds."`**
+
+</div>
